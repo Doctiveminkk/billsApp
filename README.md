@@ -1,6 +1,6 @@
 # billsApp
 
-This application's main goal is to manage house bills for people living toghether.
+This application's main goal is to manage house bills for people living together.
 It reads file names in a given directory and copies to the system's clipboard the bills of a given month with total amount and split amount according to how many people the user has set.
 
 Example of output:<br />
