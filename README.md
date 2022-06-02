@@ -3,7 +3,7 @@
 This application's main goal is to manage house bills for people living toghether.
 It reads file names in a given directory and copies to the system's clipboard the bills of a given month with total amount and split amount according to how many people the user has set.
 
-Example of output:
+Example of output:\n
 Internet 30.0 €
 Electricity 39.55 €
 Water 45.77 €
